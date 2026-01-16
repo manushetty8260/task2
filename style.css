@@ -1,0 +1,45 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Profile card container */
+.profile-card {
+    width: 400px;
+    margin: 50px auto;          /* Margin (outside space) */
+    padding: 20px;              /* Padding (inside space) */
+    border: 2px solid #333;     /* Border */
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+/* Name */
+.name {
+    margin-bottom: 5px;
+}
+
+/* Role text */
+.role {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+/* Description */
+.description {
+    padding: 10px;
+    border: 1px dashed #ccc;
+    margin-bottom: 20px;
+}
+
+/* Skills list */
+.skills {
+    padding-left: 20px;
+}
+
+.skills li {
+    margin-bottom: 8px;
+}
